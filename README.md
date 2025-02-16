@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaganaUshan
-- 👀 I’m interested in Computing and Video Editing
+- 👀 I’m interested in Computing and Digital Marketing
 - 🌱 I’m currently an IT undergraduate in SLIIT
 - 📫 How to reach me - gaganaushan16@gmail.com / it22254252@my.sliit.lk
 - 😄 Pronouns: his/him
