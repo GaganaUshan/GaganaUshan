@@ -1,60 +1,76 @@
-# Hi 👋, I'm Gagana Perera
+<div align="center">
 
-**IT Undergraduate.**
+# 🌟 Welcome to Gagana Perera's Profile 🌟
+
+<p><em>IT Undergraduate.</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
+</div>
+
+<hr>
 
 ## 👀 I'm interested in
 
-UI/UX Designing, Web Development, Project Management, Full-Stack Development
+<div align="center"><p>UI/UX Designing, Web Development, Project Management, Full-Stack Development</p></div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'GaganaUshan' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaUshan&layout=compact&langs_count=10&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaUshan&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 ### 🎨 Frontend
 
-<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-ff69b4?style=for-the-badge&logo=next.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4">
 
 ### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-4169e1?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
 
 ### 🚀 DevOps
 
-<img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> 
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFA500?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/R-FFA500?style=for-the-badge&logo=r&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
 
 ### 📱 Mobile
 
-<img src="https://img.shields.io/badge/Kotlin-3CB371?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/React Native-3CB371?style=for-the-badge&logo=react native&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&color=3CB371"> <img src="https://img.shields.io/badge/-React Native-05122A?style=for-the-badge&color=3CB371">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-R-05122A?style=for-the-badge&color=FFA500">
+
+</div>
 
 ## 🌐 Socials
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagana-yushan-9025982aa/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/GaganaUshan) 
+<a href="https://github.com/GaganaUshan"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/gagana-yushan-9025982aa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
 
 </div>
 
 ## 📫 How to reach me
 
-<div align="left">
+<div align="center">
 
-📧 **Email:** [gaganaushan16@gmail.com](mailto:gaganaushan16@gmail.com)
+**Email:** gaganaushan16@gmail.com
 
 </div>
 
----
-⭐️ From [Gagana Perera](https://github.com/GaganaUshan)
-
-<!-- Profile views counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/GaganaUshan/count.svg" alt="Visitor Count" />
+
+<!-- ⚠️ Important: Replace 'GaganaUshan' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=GaganaUshan&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/GaganaUshan?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
 </div>
