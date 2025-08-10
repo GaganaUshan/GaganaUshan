@@ -1,32 +1,6 @@
-# Gagana Perera
+# Hi 👋, I'm Gagana Perera
 
-```typescript
-const profile = {
-  name: "Gagana Perera",
-  bio: "IT Undergraduate.",
-  interests: "UI/UX Designing,Web Development,Project Management,Full-Stack Development",
-  skills: [
-    "React",
-    "HTML5",
-    "CSS3",
-    "Next.js",
-    "Node.js",
-    "Express",
-    "MongoDB",
-    "MySQL",
-    "GitHub Actions",
-    "Kotlin",
-    "React Native",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Java",
-    "PHP",
-    "C",
-    "R"
-  ],
-}
-```
+**IT Undergraduate.**
 
 ## 👀 I'm interested in
 
@@ -36,70 +10,51 @@ UI/UX Designing, Web Development, Project Management, Full-Stack Development
 
 <!-- ⚠️ Important: Replace 'GaganaUshan' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaUshan&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaUshan&layout=compact&langs_count=10&theme=default"/>
 </div>
 
 ## 💻 Tech Stack
 
-```json
-{
-  "frontend": [
-    "React",
-    "HTML5",
-    "CSS3",
-    "Next.js"
-  ],
-  "backend": [
-    "Node.js",
-    "Express",
-    "MongoDB",
-    "MySQL"
-  ],
-  "devops": [
-    "GitHub Actions"
-  ],
-  "mobile": [
-    "Kotlin",
-    "React Native"
-  ],
-  "languages": [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Java",
-    "PHP",
-    "C",
-    "R"
-  ]
-}
-```
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-ff69b4?style=for-the-badge&logo=next.js&logoColor=white" /> 
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-4169e1?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFA500?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/R-FFA500?style=for-the-badge&logo=r&logoColor=white" /> 
+
+### 📱 Mobile
+
+<img src="https://img.shields.io/badge/Kotlin-3CB371?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/React Native-3CB371?style=for-the-badge&logo=react native&logoColor=white" /> 
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  github: "GaganaUshan",
-  linkedin: "https://www.linkedin.com/in/gagana-yushan-9025982aa/",
-  facebook: "gagana.ushan",
-  instagram: "https://www.instagram.com/gagana_yushan/",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://github.com/GaganaUshan"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gagana-yushan-9025982aa/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://web.facebook.com/gagana.ushan"><img src="https://img.shields.io/badge/facebook-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.instagram.com/gagana_yushan/"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagana-yushan-9025982aa/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/GaganaUshan) 
+
 </div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "gaganaushan16@gmail.com",
-}
-```
+<div align="left">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+📧 **Email:** [gaganaushan16@gmail.com](mailto:gaganaushan16@gmail.com)
 
-process.exit(0); // Until next time 👋
-```
+</div>
+
+---
+⭐️ From [Gagana Perera](https://github.com/GaganaUshan)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/GaganaUshan/count.svg" alt="Visitor Count" />
+</div>
