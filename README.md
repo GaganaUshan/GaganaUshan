@@ -1,76 +1,98 @@
+<body>
+<h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
+<br>
 <div align="center">
+<img src="./image/2.gif">
+</div>
+<br>
+<img src="./image/line1.gif" height ="80px" width ="100%">
 
-# 🌟 Welcome to Gagana Perera's Profile 🌟
+<div>
+<h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
+<img src="./image/about-me.gif?raw=true" height="220px" align="right">
 
-<p><em>IT Undergraduate.</em></p>
+<li><b>Name:</b> Gagana Yushan</li>
+<li><b>University:</b> SLIIT (Sri Lanka Institute of Information Technology)</li>
+<li><b>Interests:</b> UI/UX Designing, Business Analysis, Project Management, AI Development, Product Thinking</li>
+<li><b>Focus:</b> Bridging Technology, Business & Design</li>
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
+<br>
+<p><b>
+I’m passionate about building meaningful digital products that combine 
+clean design, smart business strategy, and strong technical foundations. 🚀
+</b></p>
 </div>
 
+<div>
+<h2 align="left"> 📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 / 𝙎𝙠𝙞𝙡𝙡𝙨 📇</h2>
+<img src="./image/knowledge.gif?raw=true" width="420px" align="right">
+
+<p align="left">
+<img src="./image/css.svg"/> 
+<img src="./image/html.svg"/> 
+<img src="./image/javascript.svg"/> 
+<img src="./image/React.svg"/> 
+<img src="./image/Node.svg"/> 
+<img src="./image/Express.svg"/> 
+<img src="./image/MySQL.svg"/> 
+<br><br>
+
+<b>Core Areas:</b><br>
+• UI/UX Design Principles<br>
+• Business Analysis & Requirement Gathering<br>
+• Agile & Project Management Basics<br>
+• Full-Stack Web Development<br>
+• AI-based Application Development
+</p>
+</div>
+
+<br>
+
+<h2 align="center">⌨️ 𝙇𝙚𝙖𝙙𝙚𝙧𝙨𝙝𝙞𝙥 & 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
+<p align="center">
+<img align="center" src="./image/work_ex.gif"/>
+<br><br>
+
+🎯 Active member of <b>AIESEC</b> at SLIIT <br>
+Contributed to leadership, creative initiatives, and organizational growth.<br><br>
+
+💻 Worked on multiple academic and personal projects involving:<br>
+Full-Stack Development, UI/UX Improvements, AI Interview Coach, and Smart Resume Analyzer concepts.<br><br>
+
+I aim to grow into a strong Product-Oriented Tech Leader.
+</p>
+
+<br>
+
+<h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝</h2>
+<img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px"/>
+
+<p>
+&nbsp;&nbsp;<b>Let’s connect and build something impactful 🚀</b><br><br>
+
+&nbsp;&nbsp;➡️ LinkedIn : <a href="https://www.linkedin.com/in/gagana-yushan-9025982aa/" target="_blank"> Gagana Yushan </a><br>
+
+&nbsp;&nbsp;📧 Email: gaganaushan16@gmail.com<br>
+
+&nbsp;&nbsp;🌐 GitHub: https://github.com/GaganaUshan
+</p>
+
+<br>
+<br>
+<br>
+
+<div>
+<img align="center" src="./image/hxh.gif" width="100%" height="350px">
+
+<br><br>
+
+<div>
+<h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
+<div align="center">
+<img src="./image/the-end.gif" width="100%">
+</div>
 <hr>
-
-## 👀 I'm interested in
-
-<div align="center"><p>UI/UX Designing, Web Development, Project Management, Full-Stack Development</p></div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'GaganaUshan' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaUshan&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
-## 💻 Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
-
-### 📱 Mobile
-
-<img src="https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&color=3CB371"> <img src="https://img.shields.io/badge/-React Native-05122A?style=for-the-badge&color=3CB371">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-R-05122A?style=for-the-badge&color=FFA500">
-
 </div>
-
-## 🌐 Socials
-
-<div align="center">
-
-<a href="https://github.com/GaganaUshan"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/gagana-yushan-9025982aa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="center">
-
-**Email:** gaganaushan16@gmail.com
-
-</div>
-
-<div align="center">
-
-<!-- ⚠️ Important: Replace 'GaganaUshan' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=GaganaUshan&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/GaganaUshan?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
-
-</div>
+</body>
