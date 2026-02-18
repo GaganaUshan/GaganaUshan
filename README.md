@@ -64,7 +64,7 @@ I aim to grow into a strong Product-Oriented Tech Leader.
 
 <br>
 
-<h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝</h2>
+<h2 align="center">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝</h2>
 <img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px"/>
 
 <p>
@@ -78,13 +78,6 @@ I aim to grow into a strong Product-Oriented Tech Leader.
 </p>
 
 <br>
-<br>
-<br>
-
-<div>
-<img align="center" src="./image/hxh.gif" width="100%" height="350px">
-
-<br><br>
 
 <div>
 <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
